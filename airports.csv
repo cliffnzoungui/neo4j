@@ -1,0 +1,101 @@
+AirportID,Name,City,Country,IATA,Latitude,Longitude,Altitude,TZ
+1,Paris Charles de Gaulle,Paris,France,CDG,49.0097,2.5479,392,Europe/Paris
+2,Nantes Atlantique,Nantes,France,NTE,47.1532,-1.6107,90,Europe/Paris
+3,London Heathrow,London,United Kingdom,LHR,51.47,-0.4543,83,Europe/London
+4,London Gatwick,London,United Kingdom,LGW,51.1537,-0.1821,202,Europe/London
+5,Salt Lake City International,Salt Lake City,United States,SLC,40.7899,-111.9791,4227,America/Denver
+6,Mohammed V International,Casablanca,Morocco,CMN,33.3675,-7.58997,656,Africa/Casablanca
+7,Marrakesh Menara,Marrakesh,Morocco,RAK,31.6069,-8.0363,1545,Africa/Casablanca
+8,Lyon–Saint-Exupéry,Lyon,France,LYS,45.7256,5.0811,821,Europe/Paris
+9,Toulouse–Blagnac,Toulouse,France,TLS,43.6293,1.3641,499,Europe/Paris
+10,Nice Côte d'Azur,Nice,France,NCE,43.6653,7.215,12,Europe/Paris
+11,Bordeaux–Mérignac,Bordeaux,France,BOD,44.8283,-0.7156,162,Europe/Paris
+12,Rabat–Salé,Rabat,Morocco,RBA,34.0515,-6.7515,276,Africa/Casablanca
+13,Fès–Saïss,Fes,Morocco,FEZ,33.9273,-4.9779,1900,Africa/Casablanca
+14,Agadir–Al Massira,Agadir,Morocco,AGA,30.325,-9.4131,250,Africa/Casablanca
+15,Doha Hamad International,Doha,Qatar,DOH,25.2731,51.6081,13,Asia/Qatar
+16,Dubai International,Dubai,United Arab Emirates,DXB,25.2532,55.3657,62,Asia/Dubai
+17,Frankfurt am Main,Frankfurt,Germany,FRA,50.0379,8.5622,364,Europe/Berlin
+18,Munich,Munich,Germany,MUC,48.3537,11.775,1487,Europe/Berlin
+19,Madrid Barajas,Madrid,Spain,MAD,40.4983,-3.5676,1998,Europe/Madrid
+20,Barcelona El Prat,Barcelona,Spain,BCN,41.2974,2.0833,12,Europe/Madrid
+21,City1 International,City1,Germany,MUB,-4.8047,19.0298,1757,Europe/Berlin
+22,City2 International,City2,United Kingdom,DLS,-56.4461,1.7115,3077,Europe/London
+23,City3 International,City3,France,GBC,-53.0727,-7.7469,3902,Europe/Paris
+24,City4 International,City4,Italy,HCR,30.5335,122.8841,4839,Europe/Rome
+25,City5 International,City5,Italy,,-37.6622,0.1146,2184,Europe/Rome
+26,City6 International,City6,Switzerland,,-0.3353,91.6932,3673,Europe/Zurich
+27,City7 International,City7,Morocco,SBS,34.4067,-149.7659,1948,Africa/Casablanca
+28,City8 International,City8,Switzerland,HBR,-22.9723,123.8422,1990,Europe/Zurich
+29,City9 International,City9,United States,ERD,33.3805,-33.8451,295,America/New_York
+30,City10 International,City10,Switzerland,VFD,55.2299,4.1746,1204,Europe/Zurich
+31,City11 International,City11,Switzerland,GLD,-26.1628,74.9421,3311,Europe/Zurich
+32,City12 International,City12,Portugal,SBT,-22.036,-31.479,3353,Europe/Lisbon
+33,City13 International,City13,Morocco,RNY,-5.6117,-76.4434,3279,Africa/Casablanca
+34,City14 International,City14,Germany,OLJ,-1.4286,-53.1639,1489,Europe/Berlin
+35,City15 International,City15,Morocco,WYH,36.0568,52.2964,3564,Africa/Casablanca
+36,City16 International,City16,United Kingdom,QPK,-48.9109,121.2577,3483,Europe/London
+37,City17 International,City17,Netherlands,CDQ,-53.1805,85.2633,1978,Europe/Amsterdam
+38,City18 International,City18,Italy,,34.5,-72.9896,4607,Europe/Rome
+39,City19 International,City19,Germany,,-30.5346,60.1231,2290,Europe/Berlin
+40,City20 International,City20,Netherlands,VCY,56.371,111.7124,3764,Europe/Amsterdam
+41,City21 International,City21,Portugal,KKW,10.1515,-140.5815,1961,Europe/Lisbon
+42,City22 International,City22,Germany,SZO,-35.6849,-129.3681,2767,Europe/Berlin
+43,City23 International,City23,United Kingdom,IPW,10.5744,8.3837,4347,Europe/London
+44,City24 International,City24,United Kingdom,,6.6537,-65.2763,2704,Europe/London
+45,City25 International,City25,Spain,VOJ,-25.3723,136.1763,3246,Europe/Madrid
+46,City26 International,City26,Italy,LAO,-34.1128,129.0704,4633,Europe/Rome
+47,City27 International,City27,Germany,,37.1423,120.961,972,Europe/Berlin
+48,City28 International,City28,United Kingdom,GYJ,4.3193,-105.2109,3226,Europe/London
+49,City29 International,City29,United States,MMP,21.952,-25.825,2291,America/New_York
+50,City30 International,City30,United Kingdom,,-56.2447,118.1632,2745,Europe/London
+51,City31 International,City31,Italy,ENR,-1.3799,20.6818,234,Europe/Rome
+52,City32 International,City32,Spain,LVM,57.8384,138.7763,2406,Europe/Madrid
+53,City33 International,City33,Morocco,,30.8668,112.5138,4291,Africa/Casablanca
+54,City34 International,City34,United States,,45.5916,138.3268,280,America/New_York
+55,City35 International,City35,Morocco,,46.6731,-64.9978,3902,Africa/Casablanca
+56,City36 International,City36,Switzerland,,11.7566,126.6937,4909,Europe/Zurich
+57,City37 International,City37,Spain,,34.9573,-76.1844,4961,Europe/Madrid
+58,City38 International,City38,Italy,TSK,-35.1,-46.2922,2475,Europe/Rome
+59,City39 International,City39,United States,QTU,4.2782,-47.0191,3837,America/New_York
+60,City40 International,City40,France,YVZ,51.6234,-1.6162,1842,Europe/Paris
+61,City41 International,City41,Portugal,MMD,59.4799,16.5368,1534,Europe/Lisbon
+62,City42 International,City42,Netherlands,BGC,29.1443,138.8365,2428,Europe/Amsterdam
+63,City43 International,City43,Morocco,DKT,26.5837,135.7653,4885,Africa/Casablanca
+64,City44 International,City44,France,,-52.3214,105.7196,1485,Europe/Paris
+65,City45 International,City45,Switzerland,,-30.7993,-14.8677,1963,Europe/Zurich
+66,City46 International,City46,United Kingdom,TAC,-59.7412,120.541,1089,Europe/London
+67,City47 International,City47,Morocco,EUI,-28.2324,34.8028,3988,Africa/Casablanca
+68,City48 International,City48,Germany,PDD,-50.3927,32.2744,3189,Europe/Berlin
+69,City49 International,City49,Netherlands,OPP,34.5223,-146.1435,934,Europe/Amsterdam
+70,City50 International,City50,Spain,,48.7777,84.0557,4237,Europe/Madrid
+71,City51 International,City51,United Kingdom,XIP,34.9189,109.0316,3134,Europe/London
+72,City52 International,City52,United States,GQL,-30.2049,139.7339,2562,America/New_York
+73,City53 International,City53,United States,AYQ,25.9051,-19.1289,732,America/New_York
+74,City54 International,City54,Spain,CWI,-29.218,107.4801,2628,Europe/Madrid
+75,City55 International,City55,Portugal,FLY,1.4592,-78.6279,1840,Europe/Lisbon
+76,City56 International,City56,Morocco,YQK,49.3972,78.3344,926,Africa/Casablanca
+77,City57 International,City57,Morocco,ZYG,-51.8728,-75.5214,2684,Africa/Casablanca
+78,City58 International,City58,Morocco,XZH,15.8261,-86.2973,4361,Africa/Casablanca
+79,City59 International,City59,Morocco,LXA,1.6762,135.6005,4737,Africa/Casablanca
+80,City60 International,City60,France,PIG,3.1924,-32.1738,2301,Europe/Paris
+81,City61 International,City61,Switzerland,OZX,-4.8784,137.2212,4213,Europe/Zurich
+82,City62 International,City62,Germany,LCH,51.4192,-35.2126,2347,Europe/Berlin
+83,City63 International,City63,United Kingdom,GKG,-51.4174,40.5779,2478,Europe/London
+84,City64 International,City64,Netherlands,TAP,34.4566,69.1025,3620,Europe/Amsterdam
+85,City65 International,City65,Germany,CVD,-53.3164,-50.7171,4878,Europe/Berlin
+86,City66 International,City66,Italy,YGP,-42.9777,101.7721,2668,Europe/Rome
+87,City67 International,City67,United States,UKC,-40.3202,-86.0079,4831,America/New_York
+88,City68 International,City68,Italy,XCX,43.776,-116.3387,1605,Europe/Rome
+89,City69 International,City69,United States,,-43.3009,-148.1769,2393,America/New_York
+90,City70 International,City70,United States,,-35.8677,-103.6038,639,America/New_York
+91,City71 International,City71,Switzerland,ZUE,55.5944,-15.7188,2846,Europe/Zurich
+92,City72 International,City72,Switzerland,PVL,55.3053,127.1519,16,Europe/Zurich
+93,City73 International,City73,United States,EAA,-21.8001,-25.7332,95,America/New_York
+94,City74 International,City74,United Kingdom,ENG,-39.1098,-99.7054,4119,Europe/London
+95,City75 International,City75,Morocco,,-54.8872,-22.8782,3263,Africa/Casablanca
+96,City76 International,City76,Morocco,HYS,50.0161,-130.8074,3563,Africa/Casablanca
+97,City77 International,City77,Germany,NEB,36.9226,-134.2758,141,Europe/Berlin
+98,City78 International,City78,Germany,VSQ,-8.4136,131.2199,3170,Europe/Berlin
+99,City79 International,City79,Italy,QER,50.6748,98.8513,1400,Europe/Rome
+100,City80 International,City80,United States,AOY,-9.8859,36.005,1068,America/New_York

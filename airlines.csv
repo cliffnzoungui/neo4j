@@ -1,0 +1,12 @@
+AirlineID,Name,Alias,IATA,Country,Active
+1,Air France,AFR,AF,France,Y
+2,British Airways,BAW,BA,United Kingdom,Y
+3,Royal Air Maroc,RAM,AT,Morocco,Y
+4,Delta Air Lines,DAL,DL,United States,Y
+5,American Airlines,AAL,AA,United States,Y
+6,Lufthansa,DLH,LH,Germany,Y
+7,Ryanair,RYR,FR,Ireland,Y
+8,easyJet,EZY,U2,United Kingdom,Y
+9,Emirates,UAE,EK,United Arab Emirates,Y
+10,Qatar Airways,QTR,QR,Qatar,Y
+11,Old Air,OLD,,France,N
